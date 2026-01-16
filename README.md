@@ -15,18 +15,3 @@ This repository contains the source code, datasets, and scripts required to repr
 
 ---
 
-## Folder Structure
-
-Anticancer_Peptide/
-├── dataset/
-│ ├── acp240.txt
-│ ├── acp740.txt
-│ └── physicochemical_combined_clean.csv
-├── Physicochemical code/
-│ └── main.py
-├── bilstm_core_model.py
-├── cnn.py
-├── fusion_model.py
-├── main_model_SVM-RFE.py
-├── main_model_SVM-RFE_240.py
-└── README.md
